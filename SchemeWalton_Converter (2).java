@@ -1,11 +1,10 @@
 //Brandon Walton
-//897959812
-package project3csc4101;
+package schemeconverter;
 
 import java.util.Scanner;
 import java.util.Stack;
 
-public class Converter {
+public class SchemeConverter {
 
     /*Method: Converts prefix to Infix and evalutes the Expression*/
     public static void prefixToInfix(String Expression) {
