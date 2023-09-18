@@ -1,6 +1,5 @@
 //Brandon Walton
-//897959812
-package csc4101assignment2;
+package ieee754;
 
 import java.util.Scanner;
 import java.util.Stack;
