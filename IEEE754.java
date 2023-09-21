@@ -1,6 +1,6 @@
 //Brandon Walton
-/* This program is a IEEE-754 floating-point converting program that prompts a user for 
-   a number, double, and returns both its 16 and 32 bit IEEE-754 binary representation*/  
+/*This program is an IEEE-754 floating-point conversion tool. 
+  It prompts the user for a double-precision number and returns both its 16-bit and 32-bit IEEE-754 binary representations.*/  
 
 package ieee754;
 import java.util.Scanner;
