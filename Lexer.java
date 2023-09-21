@@ -1,4 +1,6 @@
 //Brandon Walton
+/*This program serves as a lexical analyzer designed to parse and process the syntax and grammar of a custom instructor-created language.
+  It returns tokens corresponding to the input code*/
 package lexer;
 
 import java.io.*;
