@@ -1,5 +1,6 @@
 //Brandon Walton
-//897959812
+/*This Java program converts user inputs into valid Scheme code, 
+  facilitating the integration of external data or user-generated content into Scheme-based applications.*/
 package project3csc4101;
 
 import java.util.Scanner;
